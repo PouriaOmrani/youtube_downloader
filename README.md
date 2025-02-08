@@ -1,4 +1,4 @@
-# YouTube Video/Audio Downloader wiht High Quality
+# YouTube Video/Audio Downloader with High Quality
 
 ## Installation
 
