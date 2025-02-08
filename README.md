@@ -32,15 +32,3 @@ python main.py --link "YOUTUBE_VIDEO_URL" --audio
 
 Replace `YOUTUBE_VIDEO_URL` with the actual URL of the YouTube video you want to download.
 
-## Example
-To download a video:
-```sh
-python main.py --link "https://www.youtube.com/watch?v=B_HR2R3xsnQ" --video
-```
-
-To download audio:
-```sh
-python main.py --link "https://www.youtube.com/watch?v=B_HR2R3xsnQ" --audio
-```
-
-Enjoy downloading your videos and audio!
